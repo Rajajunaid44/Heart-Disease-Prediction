@@ -111,9 +111,9 @@ We evaluated several machine learning models and achieved the following performa
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 |-------|----------|-----------|--------|----------|
-| Random Forest | 88.5% | 89.2% | 87.6% | 88.4% |
-| Logistic Regression | 84.3% | 85.1% | 83.7% | 84.4% |
-| Support Vector Machine | 86.7% | 87.3% | 85.9% | 86.6% |
+| Random Forest | 97.07% | 97.08% | 97.08% | 97.08% |
+| Logistic Regression | 83.41% | 78.5% | 92.23% | 84.82% |
+| Support Vector Machine | 88.29% | 86.23% | 91.26% | 88.67% |
 | K-Nearest Neighbors | 83.2% | 84.5% | 82.1% | 83.3% |
 
 The Random Forest model performed best overall and was selected for the final implementation.
